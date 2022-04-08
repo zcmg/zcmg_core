@@ -11,9 +11,10 @@ Pronto a dar start e ter uma base default.
 -cron</br>
 
 
-<b>Funcionalidades Adicionadas</b></br>
+<b>Funcionalidades Adicionadas:</b></br>
 -Sistema de Fila</br>
 -Verificação de versão</br>
+-Remoção de NPC e Veiculos aumento do consumo quando ligado de aproximadamente 0.03ms <b>(ON/OFF)</b></b>
 
 
 <b>Dependencias:</b></br>
