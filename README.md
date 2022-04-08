@@ -6,6 +6,9 @@ Tudo integrado num unico resource...<br>
 Pronto a dar start e ter uma base default totalmente em Portugues
 
 <b>Resources intregados:</b></br>
+-esx_datastore</br>
+-esx_addonaccount</br>
+-esx_society</br>
 -esx_skin</br>
 -esx_skinchange</br>
 -cron</br>
@@ -14,10 +17,11 @@ Pronto a dar start e ter uma base default totalmente em Portugues
 <b>Funcionalidades intregradas:</b></br>
 -Modo Admin (Ainda em desenvolvimento) - /entraradmin /sairadmin</br>
 -Sistema de Fila</br>
--Verificação de versão</br>
 -Remoção de NPC e Veiculos aumento do consumo quando ligado de aproximadamente 0.03ms <b>(ON/OFF)</b></br>
 -Sistema de DV Melhorado</br>
 -Sistema de Teleport /tpm</br>
+-Funcionalidade do ESX 1.2 adicionadas <b>canCarryItem</b> e <b>canSwapItem</b> maior compatibilidade com scripts</br>
+-Verificação de versão</br>
 
 
 <b>Dependencias:</b></br>
