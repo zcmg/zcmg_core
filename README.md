@@ -8,10 +8,12 @@ Pronto a dar start e ter uma base default totalmente em Portugues
 <b>Resources intregados:</b></br>
 -esx_datastore</br>
 -esx_addonaccount</br>
+-esx_addoninventory</br>
 -esx_society</br>
 -esx_skin</br>
 -esx_skinchange</br>
 -cron</br>
+-async</br>
 
 
 <b>Funcionalidades intregradas:</b></br>
@@ -26,6 +28,7 @@ Pronto a dar start e ter uma base default totalmente em Portugues
 
 <b>Dependencias:</b></br>
 EssensialMode</br>
-zcmg_notificação
+zcmg_notificação</br>
+oxmysql
 
 
