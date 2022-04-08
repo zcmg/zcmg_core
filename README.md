@@ -2,7 +2,7 @@
 
 Framework para FiveM baseado no ESX 1.1
 
-Tudo integrado num unico resource...<b>
+Tudo integrado num unico resource...<br>
 Pronto a dar start e ter uma base default totalmente em Portugues
 
 <b>Resources intregados:</b></br>
