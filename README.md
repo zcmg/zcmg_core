@@ -14,6 +14,8 @@ Pronto a dar start e ter uma base default totalmente em Portugues
 -esx_skinchange</br>
 -cron</br>
 -async</br>
+-es_plugin_mysql</br>
+-spawnmanager</br>
 
 
 <b>Funcionalidades intregradas:</b></br>
@@ -24,6 +26,8 @@ Pronto a dar start e ter uma base default totalmente em Portugues
 -Sistema de Teleport /tpm</br>
 -Funcionalidade do ESX 1.2 adicionadas <b>canCarryItem</b> e <b>canSwapItem</b> maior compatibilidade com scripts</br>
 -Verificação de versão</br>
+-Ficheiro _resource convertido para fxmanifest</br>
+-Sistema de notificações modificado</br>
 
 
 <b>Dependencias:</b></br>
